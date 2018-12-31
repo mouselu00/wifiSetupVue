@@ -1,21 +1,4 @@
-# wifi_setup
+# 智慧寵物飲水機設定介面
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 簡介
+這是設定介面的應用程式，請使用`npm run build`後的產出的`dist`放到樹莓派`nodeJS`伺服器下的目錄
